@@ -1,7 +1,7 @@
 ## Oiê! Pode me chamar de Bya👋
 
 Sou uma entusiasta de desenvolvimento Full Stack e futura Engenheira de Software, sempre em busca de novos aprendizados e desafios.
-
+<!--
 🚀 Sobre mim:
     - Atualmente focada em desenvolvimento Full Stack com ênfase em Python e JavaScript.
     - Sempre estudando e consumindo conteúdos sobre front end, back end e banco de dados.
@@ -12,3 +12,4 @@ Sou uma entusiasta de desenvolvimento Full Stack e futura Engenheira de Software
 📬 Vamos nos conectar?
 💼 LinkedIn: https://www.linkedin.com/in/beatryzbyanka/
 📧 Email: byabyachile@gmail.com
+-->
