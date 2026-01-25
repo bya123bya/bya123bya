@@ -3,7 +3,7 @@
 Sou uma entusiasta de desenvolvimento Full Stack e futura Engenheira de Software, sempre em busca de novos aprendizados e desafios.
 
 🚀 Sobre mim:
-    - Atualmente focada em desenvolvimento Full Stack com ênfase em Python e JavaScript.
+    - Atualmente focada em desenvolvimento Full Stack com ênfase em JavaScript.
     
     - Sempre estudando e consumindo conteúdos sobre front end, back end e banco de dados.
     
