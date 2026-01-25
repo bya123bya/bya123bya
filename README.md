@@ -7,8 +7,6 @@ Sou uma entusiasta de desenvolvimento Full Stack e futura Engenheira de Software
     
     - Sempre estudando e consumindo conteúdos sobre front end, back end e banco de dados.
     
-    - Estudante de Programação Básica na EducafroTech.
-    
     - Buscando oportunidades para colaborar com empresas e projetos que gerem impacto positivo.
     
      -Curiosa, proativa e comprometida com o aprendizado contínuo.
